@@ -1,0 +1,12 @@
+/* .App {
+  text-align: center;
+} */
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+@import "./css/menu.css";
+@import "./css/home.css"; 
+@import "./css/addBook.css";
+@import "./css/bookList.css";

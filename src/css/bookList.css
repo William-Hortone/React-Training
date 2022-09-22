@@ -1,0 +1,27 @@
+.bookContainer{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    /* background-color: aqua; */
+}
+
+.bookBox{
+    width: 300px;
+    height: auto;
+    border: 4px solid rgb(105, 105, 194);
+    padding: 15px;
+    margin: 20px;
+    text-align: center;
+}
+
+.btnDelete{
+    width: 100%;
+    padding: 15px;
+    background-color: red;
+    color: #ffff;
+    border: none;
+    cursor: pointer;
+    margin: 10px 0;
+}
